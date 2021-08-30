@@ -1,0 +1,522 @@
+/* X-Small devices (portrait phones, less than 576px) */
+@media (min-width: 0px) and (max-width: 575.98px) { 
+    header{
+        padding-bottom: 22px;
+    }
+    header p {
+        padding-bottom: 0px;
+        text-align: center;
+    }
+    .top-c-info {
+        justify-content: center!important;
+    }
+    .top-c-info p {
+        margin: 0;
+    }
+    .menu-area .nav-item{
+        text-align: right;
+    }
+    .banner-text {
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+    .banner-text h1 {
+        font-size: 40px;
+    }
+    .banner-text p {
+        margin-right: 100px;
+    }
+    .banner-text .banner-btn {
+        padding: 10px 15px;
+        font-size: 13px;
+    }
+    .quote .col-xl-2{
+        margin-top: 20px;
+        justify-content: center!important;
+    }
+    .quote p {
+        font-size: 14px;
+        text-align: center;
+    }
+    .quote a.btn {
+        padding: 8px 15px;
+        font-size: 13px;
+    }
+    .quote {
+        padding: 22px 0;
+    }
+    .c-heading h1 {
+        font-size: 30px;
+    }
+    .single-count h1 {
+        font-size: 30px;
+    }
+    .service {
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+    .single-service {
+        margin-bottom: 40px;
+        text-align: center!important;
+    }
+    .video-bg {
+        width: 100%;
+    }
+    .v_s-text h2 {
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+    .ps-0{
+        padding-right: 0;
+    }
+    .c-heading{
+        margin-top: 40px;
+    }
+    .feature-work {
+        padding: 0 0 40px;
+    }
+    .client-logo {
+        padding-top: 30px;
+        padding-bottom: 60px;
+    }
+    .main-video-area {
+        margin-bottom: 0px;
+    }
+    .mixer .col-lg-4{
+        text-align: center;
+    }
+    .feature-work {
+        padding: 0px;
+    }
+    .single-feedback{
+        margin-top: 60px;
+    }
+    .contact-area {
+        background-color: #f9f9f9;
+        padding: 60px 0 60px;
+    }
+    .single-line{
+        display: none;
+    }
+    .contact{
+        flex-wrap: wrap;
+        text-align: center;
+        padding-bottom: 40px;
+    }
+    .contact-text {
+        padding: 20px;
+    }
+    .contact-btn {
+
+        padding: 17px 30px;
+        margin: 0 auto!important;
+    }
+    .contact-btn {
+        width: 229px;
+        padding: 12px 20px;
+        font-size: 13px;
+        margin-right: 20px;
+    }
+    .feature-news {
+        padding: 0px;
+    }
+    .single-news {
+        margin-bottom: 60px;
+        text-align: center;
+    }
+    footer {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    footer h5 {
+        padding-bottom: 30px;
+        text-align: center;
+    }
+ 
+    .recent-p ul li {
+        padding: 12px 0;
+        
+    }
+    .recent-p{
+        margin-bottom: 60px;
+    }
+    .copywrite{
+        text-align: center;
+        float: none;
+    }
+    .copywrite ul{
+        padding-top: 10px;
+    }
+    .s-f-cntrl{
+        flex-wrap: wrap;
+        padding-bottom: 26px;
+        justify-content: center;
+    }
+    .s-f-cntrl button{
+        margin-bottom: 20px;
+    }
+    .mix-btn {
+        padding: 0 15px;
+    }
+    .feature-work {
+        padding: 0px;
+    }
+    .single-feedback{
+        margin-top: 20px;
+        background-color: #f8f8f8;
+    }
+    .s-fback-text{
+        padding: 10px 5px;
+    }
+    .s-fback-img{
+        display: flex;
+        align-items: center;
+    }
+    .client-logo {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .v_s_icon {
+        padding: 10px 20px;
+    }
+    .v_text {
+        padding: 60px 0 40px;
+    }
+    .c-heading{
+        margin-top: 60px;
+    }
+ }
+
+/* Small devices (landscape phones, less than 768px) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    header p {
+        padding-bottom: 0px;
+        text-align: center;
+    }
+    .top-c-info {
+        justify-content: center!important;
+    }
+    .top-c-info p {
+        margin: 16px 30px;
+    }
+    .menu-area .nav-item{
+        text-align: right;
+    }
+    .banner-text {
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+    .banner-text h1 {
+        font-size: 40px;
+    }
+    .banner-text p {
+        margin-right: 100px;
+    }
+    .banner-text .banner-btn {
+        padding: 10px 15px;
+        font-size: 13px;
+    }
+    .quote p {
+        font-size: 14px;
+    }
+    .quote a.btn {
+        padding: 8px 15px;
+        font-size: 13px;
+    }
+    .quote {
+        padding: 22px 0;
+    }
+    .service {
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+    .single-service {
+        margin-bottom: 40px;
+        text-align: center!important;
+    }
+    .video-bg {
+        width: 100%;
+    }
+    .v_text {
+        padding-top: 60px;
+        padding-bottom: 40px;
+        background-color: #f8f8f8;
+    }
+    .v_s-text h2 {
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+    .c-heading{
+        margin-top: 40px;
+    }
+    .feature-work {
+        padding: 0 0 40px;
+    }
+    .client-logo {
+        padding-top: 30px;
+        padding-bottom: 60px;
+    }
+    .main-video-area {
+        margin-bottom: 0px;
+    }
+    .mixer .col-lg-4{
+        text-align: center;
+    }
+    .feature-work {
+        padding: 0px;
+    }
+    .single-feedback{
+        margin-top: 60px;
+    }
+    .contact-area {
+        background-color: #f9f9f9;
+        padding: 60px 0 60px;
+    }
+    .contact-text {
+        padding: 20px;
+    }
+    .contact-btn {
+        padding: 17px 30px;
+        margin-right: 0px;
+    }
+    .contact-btn {
+        width: 229px;
+        padding: 12px 20px;
+        font-size: 13px;
+        margin-right: 20px;
+    }
+    .feature-news {
+        padding: 0px;
+    }
+    .single-news {
+        margin-bottom: 60px;
+        text-align: center;
+    }
+    footer {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    footer h5 {
+        padding-bottom: 30px;
+        text-align: center;
+    }
+ 
+    .recent-p ul li {
+        padding: 12px 0;
+        
+    }
+    .recent-p{
+        margin-bottom: 60px;
+    }
+    .copywrite{
+        text-align: center;
+        float: none;
+    }
+    .copywrite ul{
+        padding-top: 10px;
+    }
+ }
+
+/*  Medium devices (tablets, less than 992px) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .top-c-info p {
+        margin-left: 30px;
+    }
+    .menu-area .nav-item{
+        text-align: right;
+    }
+    .banner-text {
+        margin-top: 130px;
+        margin-bottom: 120px;
+    }.banner-text h1 {
+        font-size: 55px;
+    }
+    .banner-text .banner-btn {
+        padding: 10px 15px;
+    }
+    .quote p {
+        font-size: 19px;
+    }
+    .quote a.btn {
+        padding: 10px 30px;
+    }
+    .quote {
+        padding: 22px 0;
+    }
+    .service {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .single-service {
+        margin-bottom: 40px;
+        text-align: left;
+    }
+    .video-bg {
+        width: 100%;
+    }
+    .v_text {
+        padding-top: 60px;
+        padding-bottom: 40px;
+        background-color: #f8f8f8;
+    }
+    .feature-work {
+        padding: 0 0 40px;
+    }
+    .main-video-area {
+        margin-bottom: 0px;
+    }
+    .mixer .col-lg-4{
+        text-align: center;
+    }
+    .feature-work {
+        padding: 0px;
+    }
+    .single-feedback{
+        margin-top: 60px;
+    }
+    .contact-area {
+        background-color: #f9f9f9;
+        padding: 60px 0 60px;
+    }
+    .contact-text {
+        padding: 20px;
+    }
+    .contact-btn {
+        padding: 17px 30px;
+        margin-right: 0px;
+    }
+    .contact-btn {
+        width: 229px;
+        padding: 12px 20px;
+        font-size: 13px;
+        margin-right: 20px;
+    }
+    .feature-news {
+        padding: 0px 0 40px;
+    }
+    .c-heading{
+        margin-top: 40px;
+    }
+    .single-news {
+        margin-bottom: 40px;
+        text-align: left;
+    }
+    footer {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    footer h5 {
+        padding-bottom: 30px;
+    }
+    .recent-p ul li {
+        padding: 12px 0;
+    }
+    .recent-p{
+        margin-bottom: 40px;
+    }
+ }
+
+/*  Large devices (desktops, less than 1200px) */
+@media (min-width: 992px) and  (max-width: 1199.98px) {
+    
+    .banner-text {
+        margin-top: 130px;
+        margin-bottom: 120px;
+    }.banner-text h1 {
+        font-size: 50px;
+    }
+    .banner-text .banner-btn {
+        padding: 10px 28px;
+        font-size: 13px;
+    }
+    .quote {
+        padding: 20px 0;
+    }
+    .quote p {
+        font-size: 22px;
+    }
+    .quote a.btn {
+        padding: 10px 30px;
+    }
+    .v_s-text p {
+        padding-right: 20%;
+    }
+    .banner-text p {
+        margin-right: 145px;
+    }
+    .main-video-area {
+       margin-bottom: 0;
+    }
+    .v_text {
+        padding-top: 95px;
+        padding-bottom: 90px;
+    }
+    .feature-work{
+        padding-bottom: 0;
+    }
+    .client-logo {
+        padding-top: 40px;
+        padding-bottom: 80px;
+    }
+    .contact-area {
+        background-color: #f9f9f9;
+        padding: 80px 0 80px;
+    }
+    .feature-news {
+        padding-top: 0;
+    }
+    footer {
+        padding-top: 80px;
+        padding-bottom: 80px;
+        background-color: #252c3a;
+        color: #fff;
+    }
+    footer h5 {
+        padding-bottom: 35px;
+    }
+}
+
+/* X-Large devices (large desktops, less than 1400px) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    .banner-text h1 {
+        font-size: 53px;
+    }
+    .banner-text .banner-btn {
+        padding: 12px 30px;
+    }
+    .quote {
+        padding: 24px 0;
+    }
+    .quote p {
+        font-size: 26px;
+    }
+    .quote a.btn {
+        padding: 10px 30px;
+    }
+    .v_s-text p {
+        padding-right: 20%;
+    }
+}
+
+/* XX-Large devices (larger desktops) */
+@media (min-width: 1400px) {
+    .img-fluid{
+        width: 100%;
+    }
+    .banner-text p {
+        margin-right: 282px;
+        word-spacing: 2px;
+    }
+    .c-heading p {
+        margin: 0 7%;
+    }
+    .v_s-text p {
+        margin-right: 27%;
+    }
+    .s-fback-text {
+        padding-right: 18%;
+    }
+    .recent-p ul li{
+        padding-right: 0%;
+    }
+ }
